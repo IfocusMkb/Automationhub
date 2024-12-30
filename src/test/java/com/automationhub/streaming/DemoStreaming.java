@@ -9,6 +9,10 @@ public class DemoStreaming {
 		System.out.println("updated 2nd");
 		
 		System.out.println("updated33333nd");
+		
+		System.out.println("fghftyryttuy");
+		
+		System.out.println("wertyuio ");
 	}
 
 }
